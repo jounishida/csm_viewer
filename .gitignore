@@ -1,11 +1,48 @@
-csm_viewer/
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
 
-.gitignore
-README.md
-requirements.txt
-main.py
+# Virtual Environments
+venv/
+.venv/
+env/
+ENV/
 
-controllers/
-models/
-ui/
-utils/
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Build
+build/
+dist/
+
+# Python packaging
+*.egg-info/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Qt
+*.pro.user
+
+# Test data
+*.bak
+*.tmp
+
+# Coverage
+.coverage
+htmlcov/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Motion capture exports (opcional)
+*.mp4
+*.avi

@@ -1,0 +1,11 @@
+csm_viewer/
+
+.gitignore
+README.md
+requirements.txt
+main.py
+
+controllers/
+models/
+ui/
+utils/
